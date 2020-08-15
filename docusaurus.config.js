@@ -1,8 +1,8 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://jeanvegad.github.io/esoto',
-  baseUrl: '/',
+  url: 'https://jeanvegad.github.io',
+  baseUrl: '/esoto/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'jeanvegad', // Usually your GitHub org/user name.
