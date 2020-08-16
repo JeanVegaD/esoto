@@ -1,37 +1,198 @@
-/* stylelint-disable docusaurus/copyright-header */
 
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
+.mainContainer{
+  width: 100vw;
+  padding-left: 8vw;
+  padding-right: 8vw;
 }
 
-@media screen and (max-width: 966px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+.navBar_style{
+  height: auto;
+  background-color: #F6F6F6;
+  padding: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  box-shadow: none;
+  padding-left: 8vw;
+  padding-right: 8vw;
 }
 
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.img_logo_container{
+  width:200px;
 }
 
-.features {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
+.img_size{
   width: 100%;
 }
 
-.featureImage {
-  height: 200px;
-  width: 200px;
+.navTextContainer{
+  margin-top: 10px;
+  float: right;
+}
+
+.navText{
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  color: #23272A;
+  cursor: pointer;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.navText:hover{
+  font-weight: bold;
+  color: #738EFF;
+  
+}
+
+
+.bannerPrincipal{
+    width: 100vw;
+    height: 60vh;
+    padding-left: 8vw;
+    padding-right: 8vw;
+    /*Fondo*/
+    background-image: url(../../static/img/banner.png);
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.left_container{
+  height: 60vh;
+}
+
+.left_container_aux{
+  width: 65%;
+}
+
+.idea_text{
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+  color: #F6F6F6;
+  text-align: left;
+}
+
+.summary_text{
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  color: #F6F6F6;
+  text-align: left;
+}
+
+.mainbutton{
+    float: left;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 9px;
+    border: none;
+    border-radius: 5px;
+    background-color: transparent;
+    color:  #F6F6F6;
+    width: auto;
+    margin-top: 5px;
+    border:solid 2.5px #F6F6F6;
+    cursor: pointer;
+}
+
+.mainbutton:hover{
+  background-color: #F6F6F6;
+  color:  #738EFF;
+}
+
+@media screen and (max-width: 955px)  {
+  .img_logo_container{
+    margin: auto;
+    width:200px;
+  }
+
+  .navTextContainer{
+    width: fit-content;
+    float: none;
+    margin-top: 0px;
+    margin: auto;
+  }
+
+  .navText{
+    font-size: 15px;
+    color: #23272A;
+    cursor: pointer;
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+
+  /*banner*/
+  .left_container_aux{
+    width: 100%;
+  }
+  
+  .idea_text{
+    font-size: 40px;
+    text-align: center;
+  }
+  
+  .summary_text{
+    font-size: 20px;
+    text-align: justify;
+  }
+  
+  .mainbutton{
+    float: none;
+    font-size: 14px;
+    border:solid 2px #F6F6F6;
+  }
+  
+
+
+}
+
+@media screen and (max-width: 600px)  {
+  
+  .img_logo_container{
+    margin: auto;
+    width:150px;
+  }
+
+  .navTextContainer{
+    width: fit-content;
+    float: none;
+    margin-top: 0px;
+    margin: auto;
+  }
+
+  .navText{
+    font-size: 10px;
+    color: #23272A;
+    cursor: pointer;
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+
+  /*banner*/
+
+  .left_container_aux{
+    width: 100%;
+  }
+  
+  .idea_text{
+    font-size: 40px;
+    text-align: center;
+  }
+  
+  .summary_text{
+    font-size: 20px;
+    text-align: justify;
+  }
+  
+  .mainbutton{
+    float: none;
+    font-size: 14px;
+    border:solid 2px #F6F6F6;
+  }
+
 }
