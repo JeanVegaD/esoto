@@ -6,17 +6,10 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
-
-
 import Grid from '@material-ui/core/Grid';
+import Footer from '@theme/Footer';
 
 
-import AppBar from '@material-ui/core/AppBar';
-import Toolbar from '@material-ui/core/Toolbar';
-import Typography from '@material-ui/core/Typography';
-import Button from '@material-ui/core/Button';
-import IconButton from '@material-ui/core/IconButton';
-//import MenuIcon from '@material-ui/icons/Menu';
 
 
 const lightTheme = makeStyles({
@@ -73,25 +66,16 @@ const Banner = () => {
         </Grid>
       </Grid>
     </div>
-    /*
-      <div className={styles.bannerPrincipal}>
-        
-  
-      </div>*/
   );
 }
 
 function Home() {
-  let classes = lightTheme();
-
   return (
-    <div>
+    <div >
       <NavBar></NavBar>
       <Banner></Banner>
+      <Footer></Footer>
     </div>
-
-
-
   );
 }
 

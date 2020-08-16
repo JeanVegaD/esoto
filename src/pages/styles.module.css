@@ -1,4 +1,10 @@
 
+.home{
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+
 .mainContainer{
   width: 100vw;
   padding-left: 8vw;
@@ -47,7 +53,6 @@
 
 
 .bannerPrincipal{
-    width: 100vw;
     height: 60vh;
     padding-left: 8vw;
     padding-right: 8vw;
