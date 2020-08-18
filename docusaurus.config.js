@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Emanuelle CI 2020-2021',
-  url: 'emanuellesoto.com',
+  url: 'https://emanuellesoto.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
