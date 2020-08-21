@@ -18,9 +18,10 @@ module.exports = {
         src: 'img/logos/logo_overWhite_fit.png',
       },
       items: [
-        {
-          to: 'docs/investigacion', label: 'Ideario', position: 'left',
-        },
+              { to: 'docs/quiensoy', label: '¿Quién soy?', position: 'right'},
+              { to: 'docs/candidatura', label: '¿Por qué mi candidatura?', position: 'right'},
+              { to: 'docs/investigacion', label: 'Ideario', position: 'right'},
+              { to: 'https://www.tec.ac.cr/unidades/consejo-institucional', label: 'Consejo Institucional', position: 'right'}
       ],
     },
     footer: {
@@ -35,20 +36,18 @@ module.exports = {
           // It is recommended to set document id as docs home page (`docs/` path).
           homePageId: 'docs/investigacion',
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       },
     ],
+  ],
+  scripts: [
+    'https://code.jquery.com/jquery-3.4.1.min.js',
+    'https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js',
+    'https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js',
+    'https://kit.fontawesome.com/6c84ac616f.js',
+    'https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js',
   ],
 };

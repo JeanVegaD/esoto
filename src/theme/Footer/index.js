@@ -28,7 +28,7 @@ function Footer() {
     <div className={styles.footer_style}>
       <Grid
         container
-        spacing={0}>
+        spacing={4}>
         <Grid item xs={12} sm={12} md={4}>
           <div className={styles.img_logo_container}>
             <img src="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/logos/logo_overBlack.png" />
@@ -38,23 +38,24 @@ function Footer() {
         </Grid>
         <Grid item xs={12} sm={12} md={2}>
           <h1 className={styles.title_footer}>Ideario</h1>
-          <h1 className={styles.content_footer}>Propuesta 1</h1>
-          <h1 className={styles.content_footer}>Propuesta 2</h1>
-          <h1 className={styles.content_footer}>Propuesta 3</h1>
-
+          <h1 className={styles.content_footer} ><a className={styles.content_footer_link} href="docs/quiensoy">Campus Tecnológicos  y Centros Académicos</a> </h1>
+          <h1 className={styles.content_footer} ><a className={styles.content_footer_link} href="docs/investigacion">Sectores</a> </h1>
+          <h1 className={styles.content_footer} ><a className={styles.content_footer_link} href="docs/quiensoy">Temas de interés</a> </h1>
         </Grid>
         <Grid item xs={12} sm={12} md={2}>
-          <h1 className={styles.title_footer}>Ideario</h1>
-          <h1 className={styles.content_footer}>Propuesta 1</h1>
-          <h1 className={styles.content_footer}>Propuesta 2</h1>
-          <h1 className={styles.content_footer}>Propuesta 3</h1>
+          <h1 className={styles.title_footer}>Candidatura</h1>
+          <h1 className={styles.content_footer} ><a className={styles.content_footer_link} href="docs/quiensoy">¿Quién soy?</a> </h1>
+          <h1 className={styles.content_footer}><a className={styles.content_footer_link} href="docs/candidatura" >¿Por qué mi candidatura?</a></h1>
 
         </Grid>
         <Grid item xs={12} sm={12} md={2}>
           <h1 className={styles.title_footer}>Contacto</h1>
-          <h1 className={styles.content_footer}>Correo</h1>
-          <h1 className={styles.content_footer}>Telefono</h1>
-          <h1 className={styles.content_footer}>Facebook</h1>
+
+          <h1 className={styles.content_footer} ><i class="far fa-envelope"></i><a className={styles.content_footer_link} href = "mailto: esoto.candidato@itcr.ac.cr"> esoto.candidato@itcr.ac.cr</a> </h1>
+          <h1 className={styles.content_footer} ><i class="fas fa-phone"></i><a className={styles.content_footer_link} href="tel:+506 8704 8645"> +506 8704 8645</a> </h1>
+
+          <h1 className={styles.content_footer}> </h1>
+          <h1 className={styles.content_footer}> </h1>
         </Grid>
       </Grid>
       <br></br>
