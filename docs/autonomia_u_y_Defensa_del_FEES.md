@@ -23,8 +23,8 @@ Trabajaré atento a lo establecido en el artículo 88 de nuestra Constitución P
 
 - Conocer con detalle y generar pronunciamientos ante cualquier iniciativa que busque atentar contra la autonomía universitaria.
 
-- Vigilar que el presupuesto del FEES que le corresponde al gobierno por mandato constitucional no se vea reducido. DEBE SER QUINQUENAL Y NO ANUAL Y ESA DEBERÍA SER UNA CONSIGNA PERMANENTE AUNQUE NO SÉ SI ALGUIEN DEL CI PUEDE LUCHAR POR ESO
+- Vigilar que el presupuesto del FEES que le corresponde al gobierno por mandato constitucional no se vea reducido.
 
 - Atender y escuchar a la comunidad institucional en lo concerniente a ideas, soluciones, así como estrategias para luchar ante amenazas por diferentes frentes que se puedan generar contra la institucionalidad del TEC. 
 
-- Indagar la posibilidad de defensa de la autonomía universitaria en algún organismo internacional. ESO CREO QUE YA EXISTE, HAY QUE CONSULTARLO CON ALGUIEN QUE SEPA, DE HECHO LA AUTONOMÍA ESTÁ RESPALDADA POR MÚLTIPLES CONVENIOS INTERNACIONALES
+- Indagar la posibilidad de defensa de la autonomía universitaria en algún organismo internacional.
