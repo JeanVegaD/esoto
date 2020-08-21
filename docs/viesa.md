@@ -13,5 +13,7 @@ Sin embargo, considero que se requiere trabajar aún más en la permanencia exit
 ## Propuestas que planteo para la VIESA:
 
 - Fomentar la presencia de la VIESA y el desarrollo de todas sus actividades en los distintos Campus Tecnológicos y Centros Académicos.
+
 - Fortalecer los programas que la VIESA desarrolla en el TEC.
+
 - Promover diversas propuestas para que la VIESA tenga la posibilidad de implementar horarios diversos de modo que tenga presencia y logre su cometido con el sector estudiantil.

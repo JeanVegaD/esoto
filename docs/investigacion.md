@@ -14,14 +14,23 @@ Otro aspecto que me parece fundamental reforzar es el tema de la capacitación p
 ## Propuestas que planteo en Investigación:
 
 * Simplificar los trámites administrativos que ralentizan el desarrollo de proyectos de investigación.
+
 * Promover políticas específicas y estrategias más agresivas de capacitación para desarrollar proyectos de investigación en los Campus Tecnológicos Locales y los Centros Académicos.
+
 * Contribuir para que la pertinencia social de los proyectos de investigación sea un elemento legítimo e igualmente trascendente, como el potencial de generar publicaciones indexadas, tal como aprobó el IV CONGRESO INSTITUCIONAL.
+
 * Apoyar la aprobación del reglamento de investigación y extensión a que se hace referencia en el artículo 121 del Estatuto Orgánico.
+
 * Apoyar la creación de nuevos centros o programas de investigación. 
+
 * Estimular la creación de grupos de investigación como una figura formal que permita el desarrollo de proyectos de investigación y a su vez la capacitación de investigadores que dan sus primeros pasos es esta labor.
+
 * Apoyar la revisión y actualización de la normativa interna para el desarrollo de proyectos de investigación altamente financiados con recursos externos.
+
 * Contribuir al fortalecimiento de la participación estudiantil en proyectos de investigación.
+
 * Apoyar la consolidación de los mecanismos que permitan la participación de personas del sector de apoyo a la academia en el desarrollo de proyectos de investigación.
+
 * Apoyar la consolidación de la investigación educativa y sociocultural, según lo acordado en el IV CONGRESO INSTITUCIONAL.
 
 

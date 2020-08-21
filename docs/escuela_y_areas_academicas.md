@@ -12,9 +12,15 @@ No se puede debilitar el financiamiento en estas áreas en las que se materializ
 ## Propuestas que planteo para las Escuelas y Áreas Académicas:
 
 - Ser vigilante en cuanto a que las decisiones tomadas desde el Consejo Institucional no contravengan el buen funcionamiento y operatividad de las Escuelas y Áreas Académicas.
+
 - Promover políticas acerca de la consulta a las escuela y áreas académicas en decisiones que emanen desde el Consejo Institucional u otras autoridades que claramente afecten su funcionamiento.
+
 - Apoyar la asignación de plazas permanentes o nuevas vacantes en tiempo indefinido para el personal docente de las Escuelas o Áreas Académicas conforme con lo dispuesto por el Estatuto Orgánico del TEC y la propia Convención Colectiva.
+
 - Promover la internacionalización del profesorado, esto en cuanto a la asignación de becas, así como la participación en eventos académicos que visibilicen el quehacer institucional fuera de nuestras fronteras.
+
 - Apoyar los procesos de superación profesional del personal de las Escuelas y Áreas Académicas, esto en cuanto a su participación en actividades de formación y capacitación, asimismo en el acceso a posgrados.
+
 - Apoyar la asignación presupuestaria dirigida hacia las Escuelas y Áreas Académicas para hacer frente a sus obligaciones de funcionamiento, así como para crecimiento en distintas áreas.
+
 - Velar por el cumplimiento de la libertad de cátedra consagrada en el artículo 87 de la Constitución Política costarricense.
