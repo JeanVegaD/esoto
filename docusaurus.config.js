@@ -19,7 +19,7 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/propuesta1', label: 'Ideario', position: 'left',
+          to: 'docs/investigacion', label: 'Ideario', position: 'left',
         },
       ],
     },
@@ -33,7 +33,7 @@ module.exports = {
       {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: 'docs/propuesta1',
+          homePageId: 'docs/investigacion',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:

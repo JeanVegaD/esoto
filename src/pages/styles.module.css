@@ -108,6 +108,77 @@
 .mainbutton:hover{
   background-color: #F6F6F6;
   color:  #738EFF;
+
+}
+
+.row_white{
+  background-color: #FFFFFF;
+  height: auto;
+  padding-top: 80px;
+  padding-left: 8vw;
+  padding-right: 8vw;
+  padding-bottom: 80px;
+
+}
+
+.row_gray{
+  background-color: #F6F6F6;
+  height: auto;
+  padding-top: 80px;
+  padding-left: 8vw;
+  padding-right: 8vw;
+  padding-bottom: 80px;
+}
+
+.titleSection{
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 45px;
+  color: #23272A;
+  text-align: center;
+}
+
+
+.card{
+  width: 100%;
+  min-height: 250px;
+  border-radius: 8px;
+  height: 100%;
+  
+  -webkit-box-shadow: 0px -2px 25px 0px rgba(238,238,238,1);
+  -moz-box-shadow: 0px -2px 25px 0px rgba(238,238,238,1);
+  box-shadow: 0px -2px 25px 0px rgba(238,238,238,1);
+
+  transition: transform 1s;
+}
+
+.card:hover {
+  transform: scale(1.04); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  -webkit-box-shadow: -1px 21px 37px -21px rgba(115,142,255,1);
+  -moz-box-shadow: -1px 21px 37px -21px rgba(115,142,255,1);
+  box-shadow: -1px 21px 37px -21px rgba(115,142,255,1); 
+}
+
+
+.imgCardContainer{
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+
+.imgCard{
+  width: 100%;
+}
+
+.tittlecard{
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: #23272A;
+  text-align: center;
 }
 
 @media screen and (max-width: 955px)  {
