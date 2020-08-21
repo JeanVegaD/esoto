@@ -44,7 +44,7 @@ const NavBar = () => {
           <div className={styles.navTextContainer} display={{ xs: "none", sm: "none", md: "block" }}>
             <a className={styles.navText} href="docs/quiensoy">¿Quién soy?</a> 
             <a className={styles.navText} href="docs/candidatura" >¿Por qué mi candidatura?</a>
-            <a className={styles.navText} href="docs/investigacion">Ideario</a>
+            <a className={styles.navText} href="docs/campus_tecnologico_local_San_Carlos">Ideario</a>
             <a className={styles.navText} href="https://www.tec.ac.cr/unidades/consejo-institucional" target="_blank">Consejo Institucional</a> 
           </div>
         </Grid>
@@ -67,7 +67,7 @@ const Banner = () => {
         <Grid item className={styles.left_container_aux}>
           <h1 className={styles.idea_text}>LO QUE SOMOS… UN SOLO TEC</h1>
           <h1 className={styles.summary_text}>Soy Emanuelle Soto Cascante, profesor de matemática en el Centro Académico de Limón, con 6 años de formar parte de la comunidad del TEC.</h1>
-          <button className={styles.mainbutton} onClick={() => window.open("docs/candidatura", "_self")} > Ver más</button>
+          <button className={styles.mainbutton} onClick={() => window.open("docs/quiensoy", "_self")} > Ver más</button>
         </Grid>
       </Grid>
     </div>
@@ -104,43 +104,43 @@ const PropuestasPorSector = () => {
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Investigación"
-          href= "/docs/open-source-guidelines"
+          href= "/docs/investigacion"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/investigacion.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Extensión y acción social"
-          href= "/docs/open-source-guidelines"
+          href= "/docs/extension_accion_social"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/extension.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Docencia"
-          href= ""
+          href= "/docs/docencia"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/docente.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Estudiantes"
-          href= ""
+          href= "/docs/estudiantes"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/estudiantil.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Apoyo a la Academia"
-          href= "/docs/open-source-guidelines"
+          href= "/docs/sector_de_apoyo_a_la_academia"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/administrativo.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Escuelas y Áreas Académicas"
-          href= "/docs/open-source-guidelines"
+          href= "/docs/escuela_y_areas_academicas"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/escuelas.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="VIESA  "
-          href= ""
+          href= "/docs/viesa"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/viesa.png"></CustomCard>
       </Grid>
     </Grid>
@@ -164,25 +164,25 @@ const PropuestasPorSede = () => {
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="San Carlos"
-          href= "/docs/open-source-guidelines"
+          href= "/docs/campus_tecnologico_local_San_Carlos"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/sancarlos.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="San José"
-          href= "/docs/open-source-guidelines"
+          href= "/docs/campus_tecnologico_local_San_jose"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/san jose.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Alajuela"
-          href= ""
+          href= "/docs/centro_academico_alajuela"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/alajuela.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Limón"
-          href= ""
+          href= "/docs/centro_academico_Limon"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/limon.png"></CustomCard>
       </Grid>
     </Grid>

@@ -20,7 +20,7 @@ module.exports = {
       items: [
               { to: 'docs/quiensoy', label: '¿Quién soy?', position: 'right'},
               { to: 'docs/candidatura', label: '¿Por qué mi candidatura?', position: 'right'},
-              { to: 'docs/investigacion', label: 'Ideario', position: 'right'},
+              { to: 'docs/campus_tecnologico_local_San_Carlos', label: 'Ideario', position: 'right'},
               { to: 'https://www.tec.ac.cr/unidades/consejo-institucional', label: 'Consejo Institucional', position: 'right'}
       ],
     },

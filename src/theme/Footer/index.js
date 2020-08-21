@@ -38,14 +38,14 @@ function Footer() {
         </Grid>
         <Grid item xs={12} sm={12} md={2}>
           <h1 className={styles.title_footer}>Ideario</h1>
-          <h1 className={styles.content_footer} ><a className={styles.content_footer_link} href="docs/quiensoy">Campus Tecnológicos  y Centros Académicos</a> </h1>
-          <h1 className={styles.content_footer} ><a className={styles.content_footer_link} href="docs/investigacion">Sectores</a> </h1>
-          <h1 className={styles.content_footer} ><a className={styles.content_footer_link} href="docs/quiensoy">Temas de interés</a> </h1>
+          <h1 className={styles.content_footer} ><a className={styles.content_footer_link} href="https://emanuellesoto.com/docs/campus_tecnologico_local_San_Carlos">Campus Tecnológicos  y Centros Académicos</a> </h1>
+          <h1 className={styles.content_footer} ><a className={styles.content_footer_link} href="https://emanuellesoto.com/docs/investigacion">Sectores</a> </h1>
+          <h1 className={styles.content_footer} ><a className={styles.content_footer_link} href="https://emanuellesoto.com/docs/autonomia_u_y_Defensa_del_FEES">Temas de interés</a> </h1>
         </Grid>
         <Grid item xs={12} sm={12} md={2}>
           <h1 className={styles.title_footer}>Candidatura</h1>
-          <h1 className={styles.content_footer} ><a className={styles.content_footer_link} href="docs/quiensoy">¿Quién soy?</a> </h1>
-          <h1 className={styles.content_footer}><a className={styles.content_footer_link} href="docs/candidatura" >¿Por qué mi candidatura?</a></h1>
+          <h1 className={styles.content_footer} ><a className={styles.content_footer_link} href="https://emanuellesoto.com/docs/quiensoy">¿Quién soy?</a> </h1>
+          <h1 className={styles.content_footer}><a className={styles.content_footer_link} href="https://emanuellesoto.com/docs/candidatura">¿Por qué mi candidatura?</a></h1>
 
         </Grid>
         <Grid item xs={12} sm={12} md={2}>
