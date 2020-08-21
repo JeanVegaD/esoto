@@ -26,7 +26,10 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-    }
+    },
+    googleAnalytics: {
+      trackingID: "UA-175989649-1",
+    },
   },
   presets: [
     [
