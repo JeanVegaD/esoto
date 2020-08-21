@@ -42,10 +42,10 @@ const NavBar = () => {
         </Grid>
         <Grid item xs={12} sm={12} md={8} >
           <div className={styles.navTextContainer} display={{ xs: "none", sm: "none", md: "block" }}>
+            <a className={styles.navText} href="docs/quiensoy">¿Quién soy?</a> 
+            <a className={styles.navText} href="docs/candidatura" >¿Por qué mi candidatura?</a>
             <a className={styles.navText} href="docs/investigacion">Ideario</a>
-            <a className={styles.navText}>Candidatura</a>
-            <a className={styles.navText}>Sobre mí</a>
-            <a className={styles.navText}>Consejo Insitucional</a>
+            <a className={styles.navText} href="https://www.tec.ac.cr/unidades/consejo-institucional" target="_blank">Consejo Institucional</a> 
           </div>
         </Grid>
       </Grid>
@@ -65,9 +65,9 @@ const Banner = () => {
         spacing={0}
         className={styles.left_container}>
         <Grid item className={styles.left_container_aux}>
-          <h1 className={styles.idea_text}>Idea de propuesta 1</h1>
-          <h1 className={styles.summary_text}>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </h1>
-          <button className={styles.mainbutton}> Ver más</button>
+          <h1 className={styles.idea_text}>LO QUE SOMOS… UN SOLO TEC</h1>
+          <h1 className={styles.summary_text}>Soy Emanuelle Soto Cascante, profesor de matemática en el Centro Académico de Limón, con 6 años de formar parte de la comunidad del TEC.</h1>
+          <button className={styles.mainbutton} onClick={() => window.open("docs/candidatura", "_self")} > Ver más</button>
         </Grid>
       </Grid>
     </div>
@@ -148,6 +148,7 @@ const PropuestasPorSector = () => {
   );
 }
 
+
 const PropuestasPorSede = () => {
   return (
     <div className={styles.row_white}>
@@ -164,38 +165,41 @@ const PropuestasPorSede = () => {
         <CustomCard 
           title="San Carlos"
           href= "/docs/open-source-guidelines"
-          img=""></CustomCard>
+          img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/sancarlos.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="San José"
           href= "/docs/open-source-guidelines"
-          img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/extension.png"></CustomCard>
+          img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/san jose.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Alajuela"
           href= ""
-          img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/docente.png"></CustomCard>
+          img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/alajuela.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Limón"
           href= ""
-          img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/estudiantil.png"></CustomCard>
+          img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/limon.png"></CustomCard>
       </Grid>
     </Grid>
     </div>
   );
 }
 
+
+
+
 function Home() {
   return (
     <div >
       <NavBar></NavBar>
       <Banner></Banner>
-      <PropuestasPorSector></PropuestasPorSector>
       <PropuestasPorSede></PropuestasPorSede>
+      <PropuestasPorSector></PropuestasPorSector>
       <Footer></Footer>
     </div>
   );
