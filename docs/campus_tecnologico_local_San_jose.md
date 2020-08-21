@@ -9,14 +9,25 @@ A su vez considero que este crecimiento debe verse fortalecido por políticas in
 
 ## Propuestas que planteo para el Campus Tecnológico de San José:
 - Procurar que la reglamentación aprobada por el Consejo Institucional tienda a la simplificación de trámites, modificando reglamentación vigente o creando nueva reglamentación que persiga la simplificación de la gestión administrativa bajo el marco de la legalidad.   
+
 - Apoyar toda iniciativa que busque la automatización de trámites administrativos mediante la utilización de sistemas informáticos, siendo consecuente con el modelo tecnológico que trasciende en nuestra Institución 
+
 - Apoyar todas las iniciativas de vínculo con la zona de influencia del campus tales como Amón Cultural, Casa Verde, entre otras.
+
 - Apoyar la apertura de nuevas opciones académicas tanto de grado como de posgrado.
+
 - Vigilar el cumplimiento de los derechos laborales y el trato justo de funcionarios y funcionarias.
+
 - Apoyar esfuerzos del TEC que busquen adquirir la certificación de carbono neutralidad en este campus.
+
 - Promover políticas específicas más agresivas de capacitación para el desarrollo de proyectos de investigación, extensión y acción social que establezcan un vínculo importante con la zona de influencia.
+
 - Promover el desarrollo de actividades de capacitación y formación funcionarios y funcionarias.
+
 - Promover el desarrollo de reglamentación y mecanismos en lo concerniente a la desconcentración de competencias como lo plantea el artículo 72 del Estatuto Orgánico para desentrabar decisiones administrativas que deben ser tomadas con conocimiento del contexto en el que se encuentra el Campus Tecnológico.
+
 - Apoyar políticas que busquen el fortalecimiento del programa de becas y de apoyo académico para las y los estudiantes.
+
 - Apoyar la búsqueda estratégica de financiamiento externo aprovechando la modificación del artículo 5 de la Ley Orgánica del TEC para el desarrollo de programas y proyectos impulsados por el Campus.
+
 - Apoyar la asignación de plazas permanentes o nuevas vacantes en tiempo indefinido para los y las funcionarias del Campus Tecnológico San José conforme lo dispuesto por el Estatuto Orgánico del TEC y la propia Convención Colectiva.
