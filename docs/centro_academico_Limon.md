@@ -40,3 +40,9 @@ Una de estas iniciativas que en definitiva debe liderar el TEC es la Zona Econó
 - Promover la vinculación del TEC con su zona de influencia a partir de iniciativas como el liderazgo en la Zona Económica Especial Caribe
 
 - Apoyar toda gestión para concretar el proyecto de II etapa en infraestructura para el Centro Académico de Limón.
+
+- Impulsar políticas que favorezcan los procesos de atracción y de admisión al TEC de estudiantes de nuevo ingreso en condiciones de vulnerabilidad debido a su condición socioeconómica en la zona de influencia.
+
+- Velar por la incorporación de metodologías participativas, colaborativas o socializantes en el desarrollo de los diferentes cursos ofertados, esto a la luz de los acuerdos del IV CONGRESO INSTITUCIONAL en lo concerniente al modelo pedagógico establecido en el TEC. 
+
+- Impulsar la apertura de carreras o programas itinerantes o temporales que permitan llenar las necesidades presentadas en la zona de influencia bajo una coyuntura particular.
