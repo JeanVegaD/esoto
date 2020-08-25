@@ -41,3 +41,5 @@ Hay grandes retos y vacíos por llenar en este Centro Académico, uno de estos s
 - Apoyar cualquier iniciativa referente a la construcción de instalaciones propias para el Centro Académico de Alajuela.
 
 - Fortalecer alianzas estratégicas con organizaciones de la zona (parques industriales, Municipalidad de Alajuela, entre otros) de influencia para potenciar el desarrollo de proyectos de investigación y extensión.  
+
+- Impulsar la apertura de carreras o programas itinerantes o temporales que permitan llenar las necesidades presentadas en la zona de influencia bajo una coyuntura particular.
