@@ -40,3 +40,9 @@ Lo anterior convierte claramente al Campus Tecnológico de San Carlos en un espa
 - Apoyar esfuerzos en cuanto a la renovación de instalación eléctrica en diversos edificios del campus.
 
 - Apoyar esfuerzos referentes a la mejora y mantenimiento de las aulas, sistemas de ventilación, iluminación y estado en general.
+
+- Impulsar la apertura de carreras o programas itinerantes o temporales que permitan llenar las necesidades presentadas en la zona de influencia bajo una coyuntura particular.
+
+- Impulsar políticas que favorezcan los procesos de atracción y de admisión al TEC de estudiantes de nuevo ingreso en condiciones de vulnerabilidad debido a su condición socioeconómica en la zona de influencia.
+
+- Impulsar iniciativas conjuntas con el corredor Nor-Caribe de Universidades Estatales para la generación de Proyectos de Investigación y Extensión.
