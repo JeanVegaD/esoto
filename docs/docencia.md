@@ -21,3 +21,5 @@ Igualmente se presenta como un reto incorporar con mayor claridad las concepcion
 - Estimular el desarrollo de proyectos de investigación educativa, cuyos resultados generen procesos de reflexión y cambio en las prácticas docentes del TEC. 
 
 - Promover la acreditación de las diversas carreras que se imparten en los distintos Campus Tecnológicos y Centros Académicos del TEC.
+
+- Velar por la incorporación de metodologías participativas, colaborativas o socializantes en el desarrollo de los diferentes cursos ofertados, esto a la luz de los acuerdos del IV CONGRESO INSTITUCIONAL en lo concerniente al modelo pedagógico establecido en el TEC. 
