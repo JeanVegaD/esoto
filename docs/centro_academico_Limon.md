@@ -27,7 +27,7 @@ Una de estas iniciativas que en definitiva debe liderar el TEC es la Zona Econó
 
 - Promover actividades de internacionalización en el sector estudiantil, de forma que este sector se nutra de estas experiencias ampliando su conocimiento fuera de nuestras fronteras.
 
-- Apoyar esfuerzos del TEC que busquen adquirir la certificación de bandera azul y de carbono neutralidad en este centro académico. CREO QUE YA HEMOS RECIBIDO ALGO, PREGUNTÁLE A RICARDO DE QUÍMICA
+- Apoyar esfuerzos del TEC que busquen adquirir la certificación de bandera azul y de carbono neutralidad en este centro académico.
 
 - Apoyar la búsqueda estratégica de financiamiento externo aprovechando la modificación del artículo 5 de la Ley Orgánica del TEC para el desarrollo de programas y proyectos impulsados por este Centro Académico.
 
