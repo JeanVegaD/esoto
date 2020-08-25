@@ -17,3 +17,5 @@ Sin embargo, considero que se requiere trabajar aún más en la permanencia exit
 - Fortalecer los programas que la VIESA desarrolla en el TEC.
 
 - Promover diversas propuestas para que la VIESA tenga la posibilidad de implementar horarios diversos de modo que tenga presencia y logre su cometido con el sector estudiantil.
+
+- Impulsar políticas que favorezcan los procesos de atracción y de admisión al TEC de estudiantes de nuevo ingreso en condiciones de vulnerabilidad debido a su condición socioeconómica.
