@@ -31,3 +31,5 @@ A su vez considero que este crecimiento debe verse fortalecido por políticas in
 - Apoyar la búsqueda estratégica de financiamiento externo aprovechando la modificación del artículo 5 de la Ley Orgánica del TEC para el desarrollo de programas y proyectos impulsados por el Campus.
 
 - Apoyar la asignación de plazas permanentes o nuevas vacantes en tiempo indefinido para los y las funcionarias del Campus Tecnológico San José conforme lo dispuesto por el Estatuto Orgánico del TEC y la propia Convención Colectiva.
+
+- Impulsar la apertura de carreras o programas itinerantes o temporales que permitan llenar las necesidades presentadas en la zona de influencia bajo una coyuntura particular.
