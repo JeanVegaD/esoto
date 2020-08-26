@@ -46,3 +46,5 @@ Lo anterior convierte claramente al Campus Tecnológico de San Carlos en un espa
 - Impulsar políticas que favorezcan los procesos de atracción y de admisión al TEC de estudiantes de nuevo ingreso en condiciones de vulnerabilidad debido a su condición socioeconómica en la zona de influencia.
 
 - Impulsar iniciativas conjuntas con el corredor Nor-Caribe de Universidades Estatales para la generación de Proyectos de Investigación y Extensión.
+
+- Apoyar la iniciativa del Centro de Valor Agregado en el marco del trabajo realizado bajo el liderazgo asumido por el TEC en la Agencia para el Desarrollo de la Región Huetar Norte.
