@@ -37,3 +37,5 @@ Para alcanzar los aspectos citados se requiere una infraestructura de calidad, l
 - Apoyar gestiones ante la Editorial del TEC y autores del TEC para que sus libros digitales sean de libre acceso sobre todo en la coyuntura actual debida a la emergencia sanitaria.
 
 - Apoyar iniciativas ante la Editorial del TEC en cuanto a la donación y préstamo de libros para estudiantes de escasos recursos.
+
+- Promover la continuidad de becas para estudiantes que cursen programas de Licenciatura y que aún no hayan ingresado al mercado laboral.
