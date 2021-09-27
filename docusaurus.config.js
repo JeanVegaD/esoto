@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Emanuelle CI 2020-2021',
   url: 'https://jeanvegad.github.io',
-  baseUrl: '/',
+  baseUrl: '/esoto/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'jeanvegad', // Usually your GitHub org/user name.
