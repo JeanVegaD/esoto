@@ -69,7 +69,7 @@ function Footer() {
         </Grid>
         <Grid item xs={12} sm={12} md={12}>
           <div className={styles.designBy}>
-            <img src="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/logos/logo_JAVD.png" onClick={() => window.open("https://vegadiaz.com/jean", "_blank")} />
+            <img src="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/logos/logo_JAVD.png" onClick={() => window.open("https://www.linkedin.com/in/jeanvegad/", "_blank")} />
           </div>
         </Grid>
       </Grid>
