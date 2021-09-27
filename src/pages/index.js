@@ -104,43 +104,43 @@ const PropuestasPorSector = () => {
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Investigación"
-          href= "/docs/investigacion"
+          href= "docs/investigacion"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/investigacion.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Extensión y acción social"
-          href= "/docs/extension_accion_social"
+          href= "docs/extension_accion_social"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/extension.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Docencia"
-          href= "/docs/docencia"
+          href= "docs/docencia"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/docente.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Estudiantes"
-          href= "/docs/estudiantes"
+          href= "docs/estudiantes"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/estudiantil.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Apoyo a la Academia"
-          href= "/docs/sector_de_apoyo_a_la_academia"
+          href= "docs/sector_de_apoyo_a_la_academia"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/administrativo.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Escuelas y Áreas Académicas"
-          href= "/docs/escuela_y_areas_academicas"
+          href= "docs/escuela_y_areas_academicas"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/escuelas.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="VIESA  "
-          href= "/docs/viesa"
+          href= "docs/viesa"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/viesa.png"></CustomCard>
       </Grid>
     </Grid>
@@ -164,25 +164,25 @@ const PropuestasPorSede = () => {
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="San Carlos"
-          href= "/docs/campus_tecnologico_local_San_Carlos"
+          href= "docs/campus_tecnologico_local_San_Carlos"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/sancarlos.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="San José"
-          href= "/docs/campus_tecnologico_local_San_jose"
+          href= "docs/campus_tecnologico_local_San_jose"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/san jose.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Alajuela"
-          href= "/docs/centro_academico_alajuela"
+          href= "docs/centro_academico_alajuela"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/alajuela.png"></CustomCard>
       </Grid>
       <Grid item xs={12} sm={12} md={3}>
         <CustomCard 
           title="Limón"
-          href= "/docs/centro_academico_Limon"
+          href= "docs/centro_academico_Limon"
           img="https://raw.githubusercontent.com/JeanVegaD/esoto/master/static/img/ilustraciones/limon.png"></CustomCard>
       </Grid>
     </Grid>
